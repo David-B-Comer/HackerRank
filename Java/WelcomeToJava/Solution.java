@@ -1,4 +1,4 @@
-package JavaProblems;
+package WelcomeToJava;
 
 /**
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
@@ -23,5 +23,12 @@ Welcome to the world of Java! In this challenge, we practice printing to stdout.
         Hello, Java.
 **/
 
-public class WelcomeToJava {
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */
+        System.out.println("Hello, World.");
+        System.out.println("Hello, Java.");
+    }
 }
+
