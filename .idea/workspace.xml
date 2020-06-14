@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/JavaRegex2DuplicateWords/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaRegex2DuplicateWords/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/ValidUsernameRegularExpression/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591738596673</updated>
-      <workItem from="1591738600835" duration="9569000" />
+      <workItem from="1591738600835" duration="9934000" />
     </task>
     <servers />
   </component>
@@ -147,10 +147,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="181" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591741067316">
+    <state x="181" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592095031429">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="181" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1591741067316" />
+    <state x="181" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1592095031429" />
     <state x="415" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591740568019">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
