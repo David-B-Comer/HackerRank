@@ -43,5 +43,37 @@ package TagContentExtractor;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution{
+    public static void main(String[] args){
+
+        Scanner in = new Scanner(System.in);
+        int testCases = Integer.parseInt(in.nextLine());
+        while(testCases>0){
+            String line = in.nextLine();
+
+
+            // the pattern we want to search for
+            Pattern p = Pattern.compile("<(.+)>([^<]+)</\\1>");
+            Matcher m = p.matcher(line);
+            Boolean isMatch = false;
+
+            // print the group
+            while(m.find())
+            {
+                isMatch = true;
+                String text = m.group(2);
+                System.out.println(text);
+            }
+            // if no match is found
+            if(!isMatch) {System.out.println("None");
+            }
+            testCases--;
+        }
+    }
 }
