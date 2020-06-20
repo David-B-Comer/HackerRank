@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/JavaPriorityQueue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaPriorityQueue/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/JavaMethodOverriding/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaMethodOverriding/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591738596673</updated>
       <workItem from="1591738600835" duration="11707000" />
-      <workItem from="1592610895299" duration="783000" />
+      <workItem from="1592610895299" duration="1095000" />
     </task>
     <servers />
   </component>
@@ -164,26 +164,30 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1592096670248" />
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1592311052843">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1592612008940">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592311052843" />
-    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1592311052842">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592612008940" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1592612008938">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592311052842" />
-    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1592311052841">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592612008938" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1592612008937">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592311052841" />
-    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1592311052843">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592612008937" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1592612008939">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592311052843" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592612008939" />
     <state x="218" y="80" key="SettingsEditor" timestamp="1591743040861">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="218" y="80" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1591743040861" />
+    <state x="421" y="94" width="598" height="735" key="find.popup" timestamp="1592611919600">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="421" y="94" width="598" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1592611919600" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1592611346825">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
