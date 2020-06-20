@@ -69,5 +69,48 @@ package JavaBitSet;
 
  **/
 
+import java.util.BitSet;
+import java.util.Scanner;
+
 public class Solution {
+
+    public static void main(String[] args) {
+
+        Scanner get = new Scanner(System.in);
+        int n = get.nextInt();
+        int m = get.nextInt();
+
+        BitSet bs1 = new BitSet(n);
+        BitSet bs2 = new BitSet(n);
+        BitSet[] bitset = new BitSet[3];
+
+        bitset[1] = bs1;
+        bitset[2] = bs2;
+
+        while ( 0 < m-- ) {
+            String op = get.next();
+            int x = get.nextInt();
+            int y = get.nextInt();
+
+            switch (op) {
+                case "AND":
+                    bitset[x].and(bitset[y]);
+                    break;
+                case "OR":
+                    bitset[x].or(bitset[y]);
+                    break;
+                case "XOR":
+                    bitset[x].xor(bitset[y]);
+                    break;
+                case "FLIP":
+                    bitset[x].flip(y);
+                    break;
+                case "SET":
+                    bitset[x].set(y);
+            }
+
+            System.out.printf("%d %d%n", bs1.cardinality(), bs2.cardinality());
+        }
+    }
 }
+
