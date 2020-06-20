@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/JavaBitSet/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaBitSet/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/JavaPriorityQueue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaPriorityQueue/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591738596673</updated>
       <workItem from="1591738600835" duration="11707000" />
-      <workItem from="1592610895299" duration="473000" />
+      <workItem from="1592610895299" duration="783000" />
     </task>
     <servers />
   </component>
@@ -184,5 +184,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="218" y="80" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1591743040861" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1592611346825">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1592611346825" />
   </component>
 </project>
