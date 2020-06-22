@@ -45,7 +45,8 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in); if(!scan.hasNext()) {
+            System.out.print("0"); return; }
         String s = scan.nextLine();
         String[] items = s.trim().split("[ !,?.\\_'@]+");
 
