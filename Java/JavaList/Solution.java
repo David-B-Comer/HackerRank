@@ -55,5 +55,33 @@ package JavaList;
 
  **/
 
- public class Solution {
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+
+        LinkedList<Integer> linkedList = new LinkedList<>();
+        Scanner sc = new Scanner(System.in);
+        int nrElements = sc.nextInt();
+
+        for (int i = 0; i < nrElements; i++) {
+            linkedList.add(sc.nextInt());
+        }
+
+        for(int queryCount = sc.nextInt(); queryCount > 0; queryCount--){
+            if(sc.next().equals("Insert")){
+                linkedList.add(sc.nextInt(), sc.nextInt());
+            } else {
+                linkedList.remove(sc.nextInt());
+            }
+        }
+        sc.close();
+
+        for(int number : linkedList){
+            System.out.print(number + " ");
+        }
+
+    }
 }
