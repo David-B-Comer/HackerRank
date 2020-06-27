@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/JavaMD5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaMD5/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <updated>1591738596673</updated>
       <workItem from="1591738600835" duration="11707000" />
       <workItem from="1592610895299" duration="3798000" />
-      <workItem from="1592745691073" duration="9873000" />
+      <workItem from="1592745691073" duration="10263000" />
     </task>
     <servers />
   </component>
