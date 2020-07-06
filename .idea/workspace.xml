@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/JavaBigDecimal/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaBigDecimal/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/JavaBigInteger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaBigInteger/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +142,7 @@
       <workItem from="1591738600835" duration="11707000" />
       <workItem from="1592610895299" duration="3798000" />
       <workItem from="1592745691073" duration="13634000" />
-      <workItem from="1593993175293" duration="566000" />
+      <workItem from="1593993175293" duration="969000" />
     </task>
     <servers />
   </component>
