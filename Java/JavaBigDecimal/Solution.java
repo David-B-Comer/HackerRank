@@ -46,36 +46,35 @@ package JavaBigDecimal;
 
  **/
 
-
-import java.math.BigDecimal;
-import java.util.*;
-
-class Solution{
-    public static void main(String []args){
-        //Input
-        Scanner sc= new Scanner(System.in);
-        int n=sc.nextInt();
-        String []s=new String[n+2];
-        for(int i=0;i<n;i++){
-            s[i]=sc.next();
+import java.util.Scanner;
+class MyCalculator {
+    public long power(int n, int p) throws Exception{
+        long result;
+        if(n==0 && p==0){
+            throw new Exception("n and p should not be zero.");
         }
-        sc.close();
+        if(n<0 || p<0){
+            throw new Exception("n or p should not be negative.");
+        }
+        result=(long)Math.pow(n,p);
+        return result;
+    }
+}
 
-        s[n] = "";
-        s[n+1] = "";
-        Arrays.sort(s,((String number1,String number2) ->  {
-            if (!(number1.equals("")) && !(number2.equals(""))){
-                BigDecimal value1 = new BigDecimal(number1);
-                BigDecimal value2 = new BigDecimal(number2);
-                return value2.compareTo(value1);
+public class Solution {
+    public static final MyCalculator my_calculator = new MyCalculator();
+    public static final Scanner in = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        while (in .hasNextInt()) {
+            int n = in .nextInt();
+            int p = in .nextInt();
+
+            try {
+                System.out.println(my_calculator.power(n, p));
+            } catch (Exception e) {
+                System.out.println(e);
             }
-            return 0;})
-        );
-
-        //Output
-        for(int i=0;i<n;i++)
-        {
-            System.out.println(s[i]);
         }
     }
 }
