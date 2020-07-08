@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaInstanceofKeyword/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaInstanceofKeyword/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaReflectionAttributes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/JavaReflectionAttributes/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +143,7 @@
       <workItem from="1593993175293" duration="1965000" />
       <workItem from="1594082436798" duration="9000" />
       <workItem from="1594082465123" duration="3909000" />
-      <workItem from="1594244043380" duration="1818000" />
+      <workItem from="1594244043380" duration="2100000" />
     </task>
     <servers />
   </component>
@@ -195,9 +191,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="421" y="94" width="598" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1592611919600" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1592611346825">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1594246402462">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1592611346825" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1594246402462" />
   </component>
 </project>
