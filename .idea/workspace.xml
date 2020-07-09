@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/RevisingtheSelectQueryI/Solution" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/RevisingtheSelectQueryI/Solution" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +146,7 @@
       <workItem from="1594082436798" duration="9000" />
       <workItem from="1594082465123" duration="3909000" />
       <workItem from="1594244043380" duration="2899000" />
+      <workItem from="1594331403646" duration="325000" />
     </task>
     <servers />
   </component>
