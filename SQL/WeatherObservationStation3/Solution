@@ -4,3 +4,7 @@ The STATION table is described as follows:
 Station.jpg
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
+
+Solution:
+
+select distinct city from station where id %2 = 0;
