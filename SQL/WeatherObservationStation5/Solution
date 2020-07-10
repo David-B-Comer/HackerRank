@@ -19,3 +19,8 @@ When ordered alphabetically, the CITY names are listed as ABC, DEF, PQRS, and WX
 
 Note
 You can write two separate queries to get the desired output. It need not be a single query.
+
+
+Solution:
+
+Select City,char_LENGTH(City) from Station Order By Length(City), City asc limit 1; Select City,char_LENGTH(City) from Station Order By Length(City) desc, City desc limit 1;
