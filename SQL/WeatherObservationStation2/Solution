@@ -16,3 +16,8 @@ Your results must be in the form:
 
 lat lon
 where  is the sum of all values in LAT_N and  is the sum of all values in LONG_W. Both results must be rounded to a scale of  decimal places.
+
+
+Solution:
+
+Select round(Sum(LAT_N),2),round(Sum(LONG_W),2) from STATION;
