@@ -7,3 +7,8 @@ The STATION table is described as follows:
 Station.jpg
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
+
+
+Solution:
+
+SELECT ROUND(LONG_W, 4)FROM STATION WHERE LAT_N < 137.2345 ORDER BY LAT_N DESC LIMIT 1;
