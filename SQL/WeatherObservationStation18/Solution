@@ -13,3 +13,8 @@ The STATION table is described as follows:
 Station.jpg
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
+
+
+Solution:
+
+SELECT ROUND(ABS(MAX(LAT_N)+MAX(LONG_W))-ABS(MIN(LAT_N)+MIN(LONG_W)),4) FROM STATION;
