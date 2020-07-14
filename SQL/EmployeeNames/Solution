@@ -24,3 +24,9 @@ Michael
 Patrick
 Rose
 Todd
+
+
+
+Solution:
+
+SELECT NAME FROM EMPLOYEE ORDER BY NAME ASC;
