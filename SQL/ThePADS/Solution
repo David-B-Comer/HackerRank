@@ -38,3 +38,8 @@ Explanation
 
 The results of the first query are formatted to the problem description's specifications.
 The results of the second query are ascendingly ordered first by number of names corresponding to each profession (), and then alphabetically by profession (, and ).
+
+
+Solution:
+
+SELECT CONCAT(NAME,CONCAT("(",CONCAT(SUBSTR(OCCUPATION,1,1),")"))) FROM OCCUPATIONS ORDER BY NAME ASC; SELECT "There are a total of ", COUNT(OCCUPATION), CONCAT(LOWER(OCCUPATION),"s.") FROM OCCUPATIONS GROUP BY OCCUPATION ORDER BY COUNT(OCCUPATION), OCCUPATION ASC;
