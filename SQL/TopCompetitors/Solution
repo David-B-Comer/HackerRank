@@ -28,3 +28,7 @@ Hacker 90411 got a score of 30 for challenge 71055 with a difficulty level of 2,
 Hacker 90411 got a score of 100 for challenge 66730 with a difficulty level of 6, so 90411 earned a full score for this challenge.
 
 Only hacker 90411 managed to earn a full score for more than one challenge, so we print the their hacker_id and name as  space-separated values.
+
+Solution:
+
+SELECT H.HACKER_ID, H.NAME FROM HACKERS AS H JOIN (SUBMISSIONS AS S, CHALLENGES AS C, DIFFICULTY AS D) ON (S.HACKER_ID = H.HACKER_ID AND S.Challenge_ID = C.Challenge_ID AND C.DIFFICULTY_LEVEL = D.DIFFICULTY_LEVEL) WHERE S.SCORE = D.SCORE GROUP BY H.HACKER_ID, H.NAME HAVING COUNT(*) > 1 ORDER BY COUNT(*) DESC, H.HACKER_ID;
