@@ -26,3 +26,8 @@ The table below shows the salaries without zeroes as they were entered by Samant
 Samantha computes an average salary of . The actual average salary is .
 
 The resulting error between the two calculations is  which, when rounded to the next integer, is .
+
+
+Solution:
+
+SELECT CEIL(AVG(Salary) - AVG(REPLACE(SALARY, '0', ''))) FROM EMPLOYEES;
