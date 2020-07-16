@@ -3,3 +3,7 @@ Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCOD
 Input Format
 
 The CITY table is described as follows:CITY.jpg
+
+Solution:
+
+SELECT SUM(POPULATION) FROM CITY WHERE COUNTRYCODE = 'JPN';
