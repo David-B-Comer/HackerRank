@@ -5,3 +5,6 @@ Input Format
 The CITY table is described as follows:CITY.jpg
 
 
+Solution:
+
+SELECT MAX(POPULATION) - MIN(POPULATION) FROM CITY;
