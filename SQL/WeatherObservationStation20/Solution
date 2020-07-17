@@ -7,3 +7,7 @@ The STATION table is described as follows:
 Station.jpg
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
+
+Solution:
+
+SELECT ROUND(S.LAT_N,4) MEDIAM FROM STATION S WHERE (SELECT COUNT(LAT_N) FROM STATION WHERE LAT_N < S.LAT_N ) = (SELECT COUNT(LAT_N) FROM STATION WHERE LAT_N > S.LAT_N);
