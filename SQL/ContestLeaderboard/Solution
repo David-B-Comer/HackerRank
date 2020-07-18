@@ -34,3 +34,10 @@ Hacker 74842 submitted solutions for challenges 19797 and 63132, so the total sc
 Hacker 84072 submitted solutions for challenges 49593 and 63132, so the total score .
 
 The total scores for hackers 4806, 26071, 80305, and 49438 can be similarly calculated.
+
+
+
+Solution:
+
+SELECT H.HACKER_ID, NAME, SUM(SCORE) AS TOTAL_SCORE FROM HACKERS AS H INNER JOIN (SELECT HACKER_ID,  MAX(SCORE) AS SCORE FROM SUBMISSIONS GROUP BY CHALLENGE_ID, HACKER_ID) MAX_SCORE ON H.HACKER_ID=MAX_SCORE.HACKER_ID GROUP BY H.HACKER_ID, NAME HAVING TOTAL_SCORE > 0 ORDER BY TOTAL_SCORE DESC, H.HACKER_ID;
+
