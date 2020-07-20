@@ -25,3 +25,8 @@ Project 1: Tasks 1, 2 and 3 are completed on consecutive days, so these are part
 Project 2: Tasks 4 and 5 are completed on consecutive days, so these are part of the project. Thus, the start date of project is 2015-10-13 and end date is 2015-10-15, so it took 2 days to complete the project.
 Project 3: Only task 6 is part of the project. Thus, the start date of project is 2015-10-28 and end date is 2015-10-29, so it took 1 day to complete the project.
 Project 4: Only task 7 is part of the project. Thus, the start date of project is 2015-10-30 and end date is 2015-10-31, so it took 1 day to complete the project.
+
+
+Solution:
+
+SELECT START_DATE, END FROM (SELECT A.START_DATE, MIN(B.END_DATE) AS END FROM (SELECT START_DATE FROM PROJECTS WHERE START_DATE NOT IN (SELECT END_DATE FROM PROJECTS)) A, (SELECT END_DATE FROM PROJECTS WHERE END_DATE NOT IN (SELECT START_DATE FROM PROJECTS)) B WHERE START_DATE < END_DATE GROUP BY A.START_DATE) P ORDER BY DATEDIFF(END, START_DATE), START_DATE;
