@@ -48,3 +48,9 @@ The data for wands of age 17 (code 5):
 
 The minimum number of galleons needed for
 The minimum number of galleons needed for
+
+
+
+Solution:
+
+SELECT ID, AGE, COINS_NEEDED, POWER FROM WANDS A INNER JOIN WANDS_PROPERTY B ON A.CODE = B.CODE WHERE B.IS_EVIL = 0 AND A.COINS_NEEDED = (SELECT MIN(COINS_NEEDED) FROM WANDS WHERE WANDS.POWER = A.POWER AND WANDS.CODE = A.CODE) ORDER BY A.POWER DESC, B.AGE DESC;
