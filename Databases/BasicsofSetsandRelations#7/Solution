@@ -14,3 +14,7 @@ What is the count of rows returned in the following join operation?
 Student ⊳⊲(Number=ID) Teaching Assistants
 
 Only enter a single integer. Do not include any extra spaces or newlines.
+
+Solution:
+
+2
