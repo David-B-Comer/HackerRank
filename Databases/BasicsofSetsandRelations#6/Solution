@@ -8,3 +8,7 @@ What is the count of attributes (columns) returned in the following projection?
 π(Name, Number)(Student)
 
 Only enter a single integer. Do not include any extra spaces or newlines.
+
+Solution:
+
+2
