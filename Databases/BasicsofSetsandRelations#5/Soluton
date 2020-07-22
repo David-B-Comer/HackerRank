@@ -8,3 +8,8 @@ What is the count of rows returned in the following relational selection?
 σ(Number<3000)(Student)
 
 Only enter a single integer. Do not include any extra spaces or newlines.
+
+
+Solution:
+
+2
