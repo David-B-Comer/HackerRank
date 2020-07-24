@@ -4,3 +4,8 @@ The correct syntax for creating composite indexes in MS SQL Sever is:
 <p>CREATE INDEX index_name</p> <p>ON table_name(column1) and table_name(column2);</p>
 <p>CREATE INDEX index_name</p> <p>ON table_name(column1, column2);</p>
 <p>All the above-mentioned syntax are correct.</p>
+
+
+Solution:
+
+<p>CREATE INDEX index_name</p> <p>ON table_name(column1, column2);</p>
