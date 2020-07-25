@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SQL" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Databases" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Algorithms/SolveMeFirst" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
