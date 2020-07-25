@@ -20,7 +20,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Databases/DatabaseNormalization#1-1NF/Solution" beforeDir="false" afterPath="$PROJECT_DIR$/Databases/DatabaseNormalization#1-1NF/Solution" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Java1DArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Java1DArrayPart2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Java2DArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAnagrams/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaArraylist/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaBitSet/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaCurrencyFormatter/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaDatatypes/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaDateAndTime/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaDateAndTime/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaEndOfFile/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIfElse/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Hacker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/InstanceOFTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Rockstar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/DoNotTerminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/DoNotTerminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIterator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaList/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaLoopsI/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaLoopsII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMap/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding/Soccer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding/Sports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding2SuperKeyword/BiCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding2SuperKeyword/MotorCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding2SuperKeyword/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaOutputFormatting/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaPriorityQueue/Priorities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaPriorityQueue/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaPriorityQueue/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaRegex/MyRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaRegex/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaRegex2DuplicateWords/DuplicateWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSHA256/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStack/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStaticInitializerBlock/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStdinandStdoutI/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStdinandStdoutII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStringReverse/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStringTokens/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStringsIntroduction/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSubarray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSubstring/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSubstringComparisons/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/META-INF/HackerRank.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PatternSyntaxChecker/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TagContentExtractor/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ValidUsernameRegularExpression/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ValidUsernameRegularExpression/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WelcomeToJava/Solution.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,26 +128,13 @@
       <recent name="$PROJECT_DIR$/Java/JavaProblems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaEndOfFile.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaEndOfFile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStdinandStdoutII.Solution" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStdinandStdoutII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,13 +181,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +280,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="421" y="94" width="598" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1592611919600" />
+    <state x="88" y="84" key="new project wizard" timestamp="1595680962896">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="88" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1595680962896" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1594246402462">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
