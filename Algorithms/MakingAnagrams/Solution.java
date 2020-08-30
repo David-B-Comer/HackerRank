@@ -47,5 +47,50 @@ package MakingAnagrams;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution{
+
+    static int makingAnagrams(String s1, String s2){
+
+        int[] chars = new int[26];
+
+        for (char chars1 : s1.toCharArray()){
+            chars[chars1 - 97]++;
+        }
+        for (char chars2 : s2.toCharArray()){
+            chars[chars2 - 97]--;
+        }
+        int minimumDeletions = 0;
+
+        for (int i : chars){
+            minimumDeletions += Math.abs(i);
+        }
+        return minimumDeletions;
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        String s1 = scanner.nextLine();
+
+        String s2 = scanner.nextLine();
+
+        int result = makingAnagrams(s1, s2);
+
+        bufferedWriter.write(String.valueOf(result));
+        bufferedWriter.newLine();
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
 }
