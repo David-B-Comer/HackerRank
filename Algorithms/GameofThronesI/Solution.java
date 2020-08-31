@@ -61,5 +61,58 @@ package GameofThronesI;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution{
+
+    static String gameOfThrones(String s){
+
+        String alphabet = "abcdefghijklmnopqrstuvwxyz";
+        int oddCount = 0;
+        int evenCount = 0;
+
+        for (int i = 0; i < 26; i++){
+            int count = 0;
+            for (int j = 0; j < s.length(); j++){
+                if (alphabet.charAt(i) == s.charAt(j))
+                    count++;
+            }
+            if (count % 2 == 0)
+                evenCount++;
+            else
+                oddCount++;
+        }
+        if (oddCount <= 1)
+            return "YES";
+        else if (oddCount == 2 && s.length() % 2 == 0)
+            return "YES";
+        else
+            return "NO";
+    }
+
+
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        String s = scanner.nextLine();
+
+        String result = gameOfThrones(s);
+
+        bufferedWriter.write(result);
+        bufferedWriter.newLine();
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
 }
+
