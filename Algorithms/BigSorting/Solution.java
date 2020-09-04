@@ -83,17 +83,12 @@ public class Solution{
 
     static String[] bigSorting(String[] unsorted){
 
-        BigInteger[] unsortedArray = new BigInteger[unsorted.length];
-
-        for (int i = 0; i < unsorted.length; i++)
-            unsortedArray[i] = new BigInteger(unsorted[i]);
-        Arrays.sort(unsortedArray);
-        String[] sorted = new String[unsorted.length];
-
-        for (int i = 0; i < unsorted.length; i++)
-            sorted[i] = unsortedArray[i].toString();
-
-        return sorted;
+        Arrays.sort(unsorted, (left, right) -> {
+            if (left.length() != right.length())
+                return left.length() - right.length();
+            return left.compareTo(right);
+        });
+        return unsorted;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
