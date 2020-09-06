@@ -38,7 +38,7 @@ public class Solution{
 
 
 
-public class Student{}
+class Student{}
 class Rockstar{   }
 class Hacker{}
 
