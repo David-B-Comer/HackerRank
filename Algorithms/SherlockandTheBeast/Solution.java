@@ -59,5 +59,65 @@ package SherlockandTheBeast;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.function.*;
+import java.util.regex.*;
+import java.util.stream.*;
+import static java.util.stream.Collectors.joining;
+import static java.util.stream.Collectors.toList;
+
+public class Solution{
+
+    static void decentNumber(int n){
+
+        int numberOfFives = n - (n % 3);
+
+        while (numberOfFives >= 0){
+            int threes = n - numberOfFives;
+
+            if (threes % 5 == 0){
+                print(numberOfFives, threes);
+                return;
+            }
+            numberOfFives -= 3;
+        }
+        System.out.println(- 1);
+    }
+
+
+    private static void print(int fives, int threes){
+
+        StringBuilder sb = new StringBuilder();
+
+        for (int i = 1; i <= fives; i++)
+            sb.append(5);
+        for (int i = 1; i <= threes; i++)
+            sb.append(3);
+        System.out.println(sb);
+    }
+
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+        int t = Integer.parseInt(bufferedReader.readLine().trim());
+
+        IntStream.range(0, t).forEach(tItr -> {
+            try {
+                int n = Integer.parseInt(bufferedReader.readLine().trim());
+
+                decentNumber(n);
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+
+        bufferedReader.close();
+    }
 }
+
