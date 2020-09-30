@@ -20,8 +20,344 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Encryption/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Encryption/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/15DaysofLearningSQL/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ACMICPCTeam/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AChessboardGame/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AVeryBigSum/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AfricanCities/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AlternatingCharacters/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Anagram/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AngryProfessor/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AppendandDelete/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AppleandOrange/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AsianPopulation/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AveragePopulation/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/AveragePopulationofEachContinent/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BasicsofSetsandRelations#1/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BasicsofSetsandRelations#2/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BasicsofSetsandRelations#3/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BasicsofSetsandRelations#4/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BasicsofSetsandRelations#5/Soluton" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BasicsofSetsandRelations#6/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BasicsofSetsandRelations#7/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BeautifulBinaryString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BeautifulDaysattheMovies/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BeautifulPairs/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BeautifulTriplets/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BetweenTwoSets/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BetweenTwoSets/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BigSorting/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BinaryTreeNodes/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BirthdayCakeCandles/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BirthdayChocolate/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BonAppétit/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/BreakingtheRecords/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CaesarCipher/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CamelCase/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CanYouAccess/DoNotTerminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CanYouAccess/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CanYouAccess/DoNotTerminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CanYouAccess/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CanYouAccess/Solution$Inner$Private.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CanYouAccess/Solution$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CanYouAccess/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CatsandaMouse/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CavityMap/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Challenges/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ChocolateFeast/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CircularArrayRotation/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ClosestNumbers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ComparetheTriplets/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ContestLeaderboard/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CorrectnessandtheLoopInvariant/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CountingSort1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CountingSort2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CountingValleys/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CovariantReturnTypes/AndhraPradesh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CovariantReturnTypes/Flower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CovariantReturnTypes/Jasmine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CovariantReturnTypes/Lily.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CovariantReturnTypes/Region.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CovariantReturnTypes/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CovariantReturnTypes/WestBengal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/CutTheSticks/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DatabaseNormalization#1-1NF/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DatabaseQueryLanguages/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DayoftheProgrammer/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DesignerPDFViewer/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DeterminingDNAHealth/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DiagonalDifference/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DiagonalDifference/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DivisibleSumPairs/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DrawTheTriangle1/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DrawTheTriangle2/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/DrawingBook/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ElectronicsShop/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/EmployeeNames/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/EmployeeSalaries/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Encryption/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/EqualizetheArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ExtraLongFactorials/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FairRations/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FindDigits/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FindtheMedian/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FlatlandSpaceStations/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FlippingBits/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FormingaMagicSquare/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/FunnyString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/GameOfStones/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/GameofThronesI/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Gemstones/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/GradingStudents/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/GradingStudents/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/GridChallenge/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HackerRankinaString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HalloweenSale/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HappyLadybugs/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/HigherThan75Marks/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/IceCreamParlor/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/IndexArchitectureTypes/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Indexes2/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Indexes3/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Indexes4/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/InsertionSortPart1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/InsertionSortPart2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Interviews/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/IntroductionToNimGame/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/IntrotoTutorialChallenges/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JapanPopulation/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JapaneseCitiesAttributes/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JapaneseCitiesNames/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Java1DArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Java1DArrayPart2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Java2DArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAbstractClass/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAbstractClass/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAbstractClass/MyBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAnagrams/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAnnotations/FamilyBudget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAnnotations/FamilyMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaAnnotations/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaArraylist/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaBigDecimal/MyCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaBigDecimal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaBigInteger/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaBitSet/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaComparator/Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaComparator/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaComparator/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaCurrencyFormatter/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaDatatypes/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaDateAndTime/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaDateAndTime/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaDequeue/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaEndOfFile/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaExceptionHandling/MyCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaExceptionHandling/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaExceptionHandlingTryCatch/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/Cake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/Do_Not_Terminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/Do_Not_Terminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/Do_Not_Terminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/FoodFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaFactoryPattern/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaGenerics/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaGenerics/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaHashset/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIfElse/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInheritanceI/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInheritanceI/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInheritanceI/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInheritanceI/singer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInheritanceII/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInheritanceII/Arithmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInheritanceII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Hacker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/InstanceOFTutorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Rockstar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInstanceofKeyword/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/DoNotTerminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/DoNotTerminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIntToString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInterface/AdvancedArithmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInterface/MyCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaInterface/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaIterator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaLambdaExpressions/MyMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaLambdaExpressions/PerformOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaLambdaExpressions/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaList/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaLoopsI/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaLoopsII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMD5/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMap/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding/Soccer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding/Sports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding2SuperKeyword/BiCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding2SuperKeyword/MotorCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaMethodOverriding2SuperKeyword/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaOutputFormatting/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaPrimalityTest/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaPriorityQueue/Priorities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaPriorityQueue/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaPriorityQueue/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaRegex/MyRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaRegex/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaRegex2DuplicateWords/DuplicateWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSHA256/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSingletonPattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSort/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSort/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStack/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStaticInitializerBlock/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStdinandStdoutI/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStdinandStdoutII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStringReverse/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStringTokens/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaStringsIntroduction/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSubarray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSubstring/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaSubstringComparisons/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVarargsSimpleAddition/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVarargsSimpleAddition/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/FancyVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/ProductOfRedNodesVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/SumInLeavesVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/TreeLeaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JavaVisitorPattern/TreeVis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JimAndTheOrders/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JumpingontheClouds/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/JumpingontheCloudsRevisited/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Kangaroo/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/LargestPermutation/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/LibraryFine/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/LisasWorkbook/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/LonelyInteger/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/LuckBalance/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MakingAnagrams/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ManasaandStones/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MarcsCakewalk/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MarkandToys/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MarsExploration/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MaximizingXOR/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MaximumPerimeterTriangle/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MigratoryBirds/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MiniMaxSum/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MinimumAbsoluteDifferenceinanArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MinimumDistances/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MissingNumbers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/MisèreNim/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ModifiedKaprekarNumbers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/NewCompanies/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/NimbleGame/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/OLAPCubeMetadata/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/OLAPName(s)/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/OLAPOperationTypes/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/OLAPOperations1/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/OLAPOperations2/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/OLAPPerformance/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Occupations/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Ollivander'sInventory/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PalindromeIndex/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Pangrams/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PatternSyntaxChecker/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PermutingTwoArrays/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PickingNumbers/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PickingNumbers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Placements/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PlusMinus/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PokerNim/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PopulationDensityDifference/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PrimeChecker/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PrimeChecker/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PrintPrimeNumbers/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/PriyankaAndToys/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ProceduralLanguage/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Quicksort1Partition/Quicksort1Partition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RelationalAlgebra3/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RelationalAlgebra4/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Relations1/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Relations2/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RepeatedString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RevisingAggregationsAverages/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RevisingAggregationsTheCountFunction/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RevisingAggregationsTheSumFunction/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RevisingtheSelectQueryI/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RevisingtheSelectQueryII/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/RunningTimeofAlgorithms/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SQLProjectPlanning/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SavethePrisoner/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SelectAll/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SelectByID/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SeparatetheNumbers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SequenceEquation/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ServiceLane/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SherlockandArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SherlockandSquares/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SherlockandTheBeast/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SimpleArraySum/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SmartNumber/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SockMerchant/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/Staircase/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/StrangeCounter/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/StringConstruction/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/StrongPassword/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SumVsXOR/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SuperReducedString/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/SymmetricPairs/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TagContentExtractor/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TaumandBDay/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TaumandBDay/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TheBlunder/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TheHurdleRace/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TheLoveLetterMystery/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThePADS/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TheReport/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TheTotalView/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TimeConversion/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TopCompetitors/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TopEarners/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TowerBreakers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TwoCharacters/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TwoStrings/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/TypeofTriangle/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/UtopianTree/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ValidUsernameRegularExpression/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ValidUsernameRegularExpression/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ViralAdvertising/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation1/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation10/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation11/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation12/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation13/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation14/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation15/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation16/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation17/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation18/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation19/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation2/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation20/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation3/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation4/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation5/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation6/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation7/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation8/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeatherObservationStation9/Solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WeightedUniformStrings/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/WelcomeToJava/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/XORStrings/Solution.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,10 +522,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="181" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592095031429">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="181" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1592095031429" />
     <state x="415" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595376837035">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -198,38 +530,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="349" y="393" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877@0.23.1440.877" timestamp="1594558162866" />
-    <state x="487" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591741461574">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="487" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1591741461574" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1592096670248">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1592096670248" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1593609067428">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1601383632878">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593609067428" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1593609067426">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1601383632878" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1601383632876">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593609067426" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1593609067425">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1601383632876" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1601383632874">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593609067425" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1593609067426">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1601383632874" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1601383632877">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593609067426" />
-    <state x="218" y="80" key="SettingsEditor" timestamp="1591743040861">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="218" y="80" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1591743040861" />
-    <state x="421" y="94" width="598" height="735" key="find.popup" timestamp="1592611919600">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="421" y="94" width="598" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1592611919600" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1601383632877" />
     <state x="1557" y="-456" key="new project wizard" timestamp="1598031383187">
       <screen x="1440" y="-530" width="1920" height="1057" />
     </state>
