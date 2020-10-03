@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c64ccfdb-c71b-4ca8-af93-4cf32c6a8248" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/TheFullCountingSort/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/TheFullCountingSort/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/TheFullCountingSort/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,11 +218,11 @@
     </state>
     <state x="1557" y="-456" key="new project wizard/0.23.1440.877/1440.-530.1920.1057@1440.-530.1920.1057" timestamp="1598031383187" />
     <state x="88" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1595680962896" />
-    <state x="513" y="252" width="894" height="815" key="search.everywhere.popup" timestamp="1597323973638">
+    <state x="513" y="252" width="894" height="815" key="search.everywhere.popup" timestamp="1601688038914">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1595845690361" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1597001989764" />
-    <state x="513" y="252" width="894" height="815" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1597323973638" />
+    <state x="513" y="252" width="894" height="815" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1601688038914" />
   </component>
 </project>
