@@ -78,5 +78,73 @@ package BiggerisGreater;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution{
+
+    static String biggerIsGreater(String w){
+
+        char[] chars = w.toCharArray();
+
+        int nextPermutationPossible = 0;
+        int first = 0;
+        int last = chars.length - 1;
+
+
+        for (int i = chars.length - 1; i > 0; i--){
+            if (chars[i] > chars[i - 1]){
+                first = i;
+                last = i - 1;
+                nextPermutationPossible = 1;
+                break;
+            }
+        }
+        if (nextPermutationPossible == 0){
+            return "no answer";
+        }
+
+        int swap = chars.length - 1;
+
+        while (chars[swap] <= chars[last]){
+            swap--;
+        }
+
+        char temp = chars[swap];
+        chars[swap] = chars[last];
+        chars[last] = temp;
+
+        Arrays.sort(chars, first, chars.length);
+        String result = new String(chars);
+
+        return result;
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int T = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        for (int TItr = 0; TItr < T; TItr++) {
+            String w = scanner.nextLine();
+
+            String result = biggerIsGreater(w);
+
+            bufferedWriter.write(result);
+            bufferedWriter.newLine();
+        }
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
 }
+
