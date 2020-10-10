@@ -98,5 +98,72 @@ package TheFullCountingSort;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.function.*;
+import java.util.regex.*;
+import java.util.stream.*;
+import static java.util.stream.Collectors.joining;
+import static java.util.stream.Collectors.toList;
+
+public class Solution{
+
+    static void countSort(List<List<String>> arr){
+
+        StringBuffer[] sb = new StringBuffer[100];
+        int[] iArr = new int[100];
+        int middle = arr.size() / 2;
+
+        for(int i = 0; i < arr.size(); i++){
+            int x = Integer.parseInt(arr.get(i).get(0));
+            String s = arr.get(i).get(1);
+
+            if (i < middle){
+                s = "-";
+            }
+            if (iArr[x] == - 1){
+                sb[x] = sb[x].append(" ");
+                sb[x] = sb[x].append(s);
+            }
+            else {
+                sb[x] = new StringBuffer(s);
+                iArr[x] = - 1;
+            }
+        }
+        StringBuffer sBuff = new StringBuffer("");
+
+        for (int i = 0; i < 100; i++){
+            if( iArr[i] == - 1){
+                sBuff = sBuff.append(sb[i] + " ");
+            }
+        }
+        System.out.println(sBuff);
+    }
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+        int n = Integer.parseInt(bufferedReader.readLine().trim());
+
+        List<List<String>> arr = new ArrayList<>();
+
+        IntStream.range(0, n).forEach(i -> {
+            try {
+                arr.add(
+                        Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
+                                .collect(toList())
+                );
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+
+        countSort(arr);
+
+        bufferedReader.close();
+    }
 }
