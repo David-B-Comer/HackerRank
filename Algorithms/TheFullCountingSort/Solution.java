@@ -104,11 +104,7 @@ import java.security.*;
 import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
-import java.util.function.*;
 import java.util.regex.*;
-import java.util.stream.*;
-import static java.util.stream.Collectors.joining;
-import static java.util.stream.Collectors.toList;
 
 public class Solution{
 
@@ -118,7 +114,7 @@ public class Solution{
         int[] iArr = new int[100];
         int middle = arr.size() / 2;
 
-        for(int i = 0; i < arr.size(); i++){
+        for (int i = 0; i < arr.size(); i++){
             int x = Integer.parseInt(arr.get(i).get(0));
             String s = arr.get(i).get(1);
 
@@ -137,7 +133,7 @@ public class Solution{
         StringBuffer sBuff = new StringBuffer("");
 
         for (int i = 0; i < 100; i++){
-            if( iArr[i] == - 1){
+            if ( iArr[i] == - 1){
                 sBuff = sBuff.append(sb[i] + " ");
             }
         }
@@ -151,16 +147,9 @@ public class Solution{
 
         List<List<String>> arr = new ArrayList<>();
 
-        IntStream.range(0, n).forEach(i -> {
-            try {
-                arr.add(
-                        Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
-                                .collect(toList())
-                );
-            } catch (IOException ex) {
-                throw new RuntimeException(ex);
-            }
-        });
+        for (int i = 0; i < n; i++) {
+            arr.add(Arrays.asList(bufferedReader.readLine().replaceAll("\\s+$", "").split(" ")));
+        }
 
         countSort(arr);
 
