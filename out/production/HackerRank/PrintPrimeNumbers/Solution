@@ -1,0 +1,10 @@
+Write a query to print all prime numbers less than or equal to . Print your result on a single line, and use the ampersand () character as your separator (instead of a space).
+
+For example, the output for all prime numbers  would be:
+
+2&3&5&7
+
+Solution:
+
+SELECT GROUP_CONCAT(NUMBER SEPARATOR '&') FROM (SELECT @NUM:=@NUM+1 AS NUMBER FROM INFORMATION_SCHEMA.TABLES T1, INFORMATION_SCHEMA.TABLES T2, (SELECT @NUM:=1) TEMP
+) TEMPNUM WHERE NUMBER<=1000 AND NOT EXISTS(SELECT * FROM (SELECT @NU:=@NU+1 AS NUMA FROM INFORMATION_SCHEMA.TABLES T1,INFORMATION_SCHEMA.TABLES T2, (SELECT @NU:=1) TEMP1 LIMIT 1000) TEMP WHERE FLOOR(NUMBER/NUMA)=(NUMBER/NUMA) AND NUMA<NUMBER AND NUMA>1);

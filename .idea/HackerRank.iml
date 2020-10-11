@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SQL" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Databases" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/InterviewPreparationKit" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
