@@ -64,5 +64,61 @@ package SherlockAndTheValidString;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution{
+
+    static String isValid(String s){
+
+        if (s.length() <= 3)
+            return "YES";
+
+        int[] chars = new int[26];
+
+        for (int i = 0; i < s.length(); i++){
+            chars[s.charAt(i) - 'a']++;
+        }
+
+        Arrays.sort(chars);
+        int i = 0;
+        while (chars[i] == 0) i++;
+
+        int min = chars[i];
+        int max = chars[25];
+
+        if (max - min == 0)
+            return "YES";
+        if (chars[i + 1] == min){
+            if (max - min == 1 && chars[24] == min)
+                return "YES";
+        }else if (chars[i + 1] == max){
+            if (min == 1)
+                return "YES";
+        }
+        return "NO";
+    }
+
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        String s = scanner.nextLine();
+
+        String result = isValid(s);
+
+        bufferedWriter.write(result);
+        bufferedWriter.newLine();
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
 }
