@@ -67,5 +67,68 @@ package SpecialStringAgain;
 
  **/
 
-public class Solution {
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution{
+
+    static long substrCount(int n, String s){
+
+        int specialSubstrings = n;
+        int consecutiveCharacters = 1;
+        int middleIndex = - 1;
+
+        for (int i = 1; i < n; i++){
+            if (s.charAt(i) == s.charAt(i-1)) {
+                specialSubstrings += consecutiveCharacters;
+                consecutiveCharacters++;
+
+                if (middleIndex > 0){
+                    if ((middleIndex - consecutiveCharacters) >= 0 && s.charAt(middleIndex - consecutiveCharacters) == s.charAt(i)){
+                        specialSubstrings++;
+                    }
+                    else{
+                        middleIndex = - 1;
+                    }
+                }
+            }
+            else{
+                consecutiveCharacters = 1;
+
+                if (((i - 2) >= 0) && s.charAt(i - 2) == s.charAt(i)){
+                    specialSubstrings++;
+                    middleIndex = i - 1;
+                }
+                else{
+                    middleIndex = - 1;
+                }
+            }
+        }
+        return specialSubstrings;
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int n = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        String s = scanner.nextLine();
+
+        long result = substrCount(n, s);
+
+        bufferedWriter.write(String.valueOf(result));
+        bufferedWriter.newLine();
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
 }
